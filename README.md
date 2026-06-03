@@ -124,24 +124,3 @@ Designed an E-Commerce Dashboard to analyze customer purchasing behavior, profit
 
 ---
 
-# Repository Structure
-
-business-analytics-portfolio
-
-├── Sales-Analytics-Dashboard
-
-├── HR-Analytics-Dashboard
-
-├── E-Commerce-Dashboard
-
-└── README.md
-
----
-
-# Contact
-
-LinkedIn: YOUR_LINKEDIN_PROFILE
-
-GitHub: YOUR_GITHUB_PROFILE
-
-Email: YOUR_EMAIL
