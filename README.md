@@ -34,6 +34,8 @@ Developed an interactive Sales Analytics Dashboard to analyze revenue, profitabi
 ### Dashboard Preview
 
 ![Sales Dashboard](./Sales-Analytics-Dashboard/sales_dashboard.png)
+![Sales Dashboard](./Sales-Analytics-Dashboard/sales_forecasting.png)
+
 
 ### Key Features
 
@@ -67,7 +69,7 @@ Built an HR Analytics Dashboard to identify workforce trends, employee attrition
 
 ### Dashboard Preview
 
-![HR Dashboard](./HR-Analytics-Dashboard/hr_dashboard.png)
+![HR Analytics_Dashboard](./HR-Analytics-Dashboard/hr_analytics_dashboard.png)
 
 ### Key Features
 
@@ -99,7 +101,7 @@ Designed an E-Commerce Dashboard to analyze customer purchasing behavior, profit
 
 ### Dashboard Preview
 
-![E-Commerce Dashboard](./E-Commerce-Dashboard/ecommerce_dashboard.png)
+![E-Commerce Dashboard](./E-Commerce-Dashboard/e-commerce_dashboard.png)
 
 ### Key Features
 
