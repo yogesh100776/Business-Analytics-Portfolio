@@ -1,23 +1,34 @@
-business-analytics-portfolio
+# Business Analytics Portfolio
 
-│
-├── Sales-Analytics-Dashboard
-│   ├── sales_dashboard.pbix
-│   ├── sales_dashboard.pdf
-│   ├── dataset.csv
-│   └── README.md
-│
-├── HR-Analytics-Dashboard
-│   ├── hr_analytics_dashboard.pbix
-│   ├── hr_analytics_dashboard.pdf
-│   ├── dataset.csv
-│   └── README.md
-│
-├── E-Commerce-Dashboard
-│   ├── ecommerce_dashboard.pbix
-│   ├── ecommerce_dashboard.pdf
-│   ├── Orders.csv
-│   ├── Details.csv
-│   └── README.md
-│
-└── README.md
+This repository showcases Power BI projects focused on business analytics, sales reporting, workforce analytics, and e-commerce performance monitoring.
+
+## Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Dashboard Development
+- KPI Reporting
+- Business Analytics
+- Microsoft Excel
+
+## Projects
+
+### 1. Sales Analytics Dashboard
+Interactive sales performance dashboard with forecasting capabilities.
+
+### 2. HR Analytics Dashboard
+Employee attrition and workforce analytics dashboard.
+
+### 3. E-Commerce Dashboard
+Business performance dashboard analyzing sales, profit, customers, and payment trends.
+
+## Tools Used
+
+- Power BI Desktop
+- Power Query
+- Microsoft Excel
+- DAX
