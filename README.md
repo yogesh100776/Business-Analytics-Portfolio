@@ -1,6 +1,6 @@
 # 📊 Business Analytics Portfolio
 
-Welcome to my Business Analytics Portfolio. This repository showcases Power BI projects focused on business intelligence, data analytics, KPI reporting, forecasting, and data-driven decision-making.
+Welcome to my Business Analytics Portfolio. This repository showcases projects focused on business intelligence, data analytics, KPI reporting, forecasting, and data-driven decision-making.
 
 ## About Me
 
